@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carloscesarcamilo
-- 👀 I’m interested in freebsd system
-- 🌱 I’m currently learning 
+- 👀 I’m interested in System Administrator
+- 🌱 I’m currently learning openzfs jails security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
